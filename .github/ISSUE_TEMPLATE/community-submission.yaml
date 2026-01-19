@@ -14,6 +14,20 @@ body:
   validations:
     required: true
 - type: input
+  id: communityName
+  attributes:
+    label: Community name
+    description: "Name of community to appear on BTCMAP"
+    placeholder: "12334
+- type: input
+  id: areaType
+  attributes:
+    label: Area type
+    options:
+      - Community
+  validations:
+    required: true
+- type: input
   id: issueId
   attributes:
     label: Issue Id
