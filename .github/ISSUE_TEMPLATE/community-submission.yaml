@@ -8,7 +8,6 @@ body:
     label: Area type
     options:
       - Community
-      - a
   validations:
     required: true
 - type: input
