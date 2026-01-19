@@ -15,4 +15,4 @@ We truly believe on Open Source, we embrace projects and help to build the base 
 # Timeline
 [see](timeline.md)
 # Events
-[see](events.md)
+As we are an Bitcoin, Open Source and Bitcoinization Org we do events about how to accept bitcoin in your business, we also do events teaching how to start open source in Bitcoin, we also do community and tech envents [click here](events.md)
