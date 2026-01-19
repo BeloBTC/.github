@@ -3,6 +3,13 @@ We are an Open Source based org, if you think you are part of us you are with us
 # Main goals
 Our main goal is to hyperbitcoinize the world, starting from Belo Horizonte as we were founded, here is our HQ, even if we do things arround the globe here will be the place to not be forgotten. Is not a trouble to have more voluntiers in another continent or even another planets. The secundary goal is to remove the FIAT power agaist people. The third goal is to make bitcoin work in circular economy. The forth goal is to make Bitcoin an global unit of count.
 # Donations
+We do not reject any kind of money if you want help our project there is the donation addresses available if you want to donate in different way let us know opening a issue or sending an email to belobtc@proton.me
+
+₿&nbsp;&nbsp; bc1q7m66jmvuvjfvvxgea55kv6pxmn6f004dcy9ag5  
+🦤  npub1nupp3vaqn8c5tya70tezz09evk06wl300vp9xg575vq3m3y5grvskcnzwa  
+⚡   belobtc@coinos.io  
+🍆  0xB31a45bE7Ce9A69eA448C843C55a05Db7eDeB6EC  
+
 # Open Source
 We truly believe on Open Source, we embrace projects and help to build the base infraestructure to run FOSS Bitcoin projects to know more about [click here](OpenSource.md).
 # Timeline
