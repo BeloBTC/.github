@@ -18,6 +18,19 @@ body:
       - Community
   validations:
     required: true
+- type: dropdown
+  id: continent
+  attributes:
+    label: Continent
+    options:
+      - africa
+      - asia 
+      - europe
+      - north-america 
+      - oceania
+      - south-america
+  validations:
+    required: true
 - type: input
   id: issueId
   attributes:
