@@ -16,7 +16,7 @@ body:
 - type: input
   id: issueId
   attributes:
-    label: Community Information
+    label: IssueId
     description: "Gitea BTCMAP issue id"
     placeholder: "12334"
   validations:
