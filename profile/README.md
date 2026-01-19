@@ -3,6 +3,8 @@ We are an Open Source based org, if you think you are part of us you are with us
 # Main goals
 Our main goal is to hyperbitcoinize the world, starting from Belo Horizonte as we were founded, here is our HQ, even if we do things arround the globe here will be the place to not be forgotten. Is not a trouble to have more voluntiers in another continent or even another planets. The secundary goal is to remove the FIAT power agaist people. The third goal is to make bitcoin work in circular economy. The forth goal is to make Bitcoin an global unit of count.
 # Donations
+# Open Source
+[see](OpenSource.md)
 # Timeline
 [see](timeline.md)
 # Events
