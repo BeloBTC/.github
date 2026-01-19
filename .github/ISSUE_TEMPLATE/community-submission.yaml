@@ -7,7 +7,7 @@ body:
   attributes:
     label: Community name
     description: "Name of community to appear on BTCMAP"
-    placeholder: "12334"
+    placeholder: "Bitcoin BH"
   validations:
     required: true
 - type: dropdown
