@@ -3,12 +3,6 @@ title: Community
 description: Fill the information to allow BeloBTC team handle your community creation issue
 body:
 - type: input
-  id: communityName
-  attributes:
-    label: Community name
-    description: "Name of community to appear on BTCMAP"
-    placeholder: "12334
-- type: input
   id: areaType
   attributes:
     label: Area type
