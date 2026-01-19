@@ -2,17 +2,6 @@ name: Community Submission
 title: Community
 description: Fill the information to allow BeloBTC team handle your community creation issue
 body:
-- type: dropdown
-  id: download
-  attributes:
-    label: How did you download the software?
-    options:
-      - Homebrew
-      - MacPorts
-      - apt-get
-      - Built from source
-  validations:
-    required: true
 - type: input
   id: communityName
   attributes:
