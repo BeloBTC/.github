@@ -6,3 +6,4 @@ Our main goal is to hyperbitcoinize the world, starting from Belo Horizonte as w
 # Timeline
 [see](timeline.md)
 # Events
+[see](events.md)
