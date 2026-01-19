@@ -14,11 +14,11 @@ body:
   validations:
     required: true
 - type: input
-  id: communityInfo
+  id: issueId
   attributes:
     label: Community Information
-    description: "Fill with specified community information"
-    value: "value"
+    description: "Gitea BTCMAP issue id"
+    placeholder: "12334"
   validations:
     required: true
 
