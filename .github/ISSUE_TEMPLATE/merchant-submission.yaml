@@ -1,0 +1,21 @@
+name: Community Submission
+title: Community
+description: Fill the information to allow BeloBTC team handle your community creation issue
+body:
+- type: input
+  id: merchantName
+  attributes:
+    label: Merchant name
+    description: "Name of merchant to appear on BTCMAP"
+    placeholder: "Espetinho do Teteu"
+  validations:
+    required: true
+- type: input
+  id: mapsLink
+  attributes:
+    label: Merchant name
+    description: "Google maps link"
+    placeholder: "https://maps.app.goo.gl/nMeEkKfEPuXfC1qi7"
+  validations:
+    required: true
+
