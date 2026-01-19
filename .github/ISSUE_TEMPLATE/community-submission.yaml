@@ -2,7 +2,7 @@ name: Community Submission
 title: Community
 description: Fill the information to allow BeloBTC team handle your community creation issue
 body:
-- type: input
+- type: dropdown
   id: areaType
   attributes:
     label: Area type
