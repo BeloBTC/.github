@@ -17,7 +17,7 @@ body:
   id: communityInfo
   attributes:
     label: Community Information
-    description: "description"
+    description: "Fill with specified community information"
     value: "value"
   validations:
     required: true
