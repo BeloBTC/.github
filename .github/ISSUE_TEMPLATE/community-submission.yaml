@@ -16,8 +16,14 @@ body:
 - type: input
   id: issueId
   attributes:
-    label: IssueId
+    label: Issue Id
     description: "Gitea BTCMAP issue id"
+    placeholder: "12334"
+- type: input
+  id: issueId
+  attributes:
+    label: OSM Id
+    description: "Open Street map identifier"
     placeholder: "12334"
   validations:
     required: true
