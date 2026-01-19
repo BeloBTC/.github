@@ -11,7 +11,8 @@ body:
     label: Community Information
     description: "test"
     placeholder: "a"
-    value: "aaa"
+    value: |
+      aaa
   validations:
     required: true
 ---
