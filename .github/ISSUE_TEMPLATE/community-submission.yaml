@@ -5,7 +5,6 @@ body:
 - type: input
   id: communityName
   attributes:
-    label: Community
     description: "Name of community to appear on BTCMAP"
     placeholder: "12334
   validations:
